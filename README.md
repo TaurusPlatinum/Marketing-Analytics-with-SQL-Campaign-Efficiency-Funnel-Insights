@@ -93,7 +93,7 @@ Enables **deep-dive analysis** into campaign/adset performance, crucial for A/B 
 
 Script | Output
 :---: | :---:
-![Task 4 Script](doc/img7.png) | ![Task 4 Output](doc/8.png)
+![Task 4 Script](doc/7.png) | ![Task 4 Output](doc/8.png)
 
 ---
 
