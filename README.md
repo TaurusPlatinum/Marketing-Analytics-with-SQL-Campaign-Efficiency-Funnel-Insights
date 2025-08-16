@@ -137,7 +137,7 @@ Supports trend analysis, enabling marketers to identify growth, decline, and sea
 
 Script | Output
 :---: | :---:
-![Task 6 Script](doc/15.png) | ![Task 6 Script](doc/15.1.png) | ![Task 6 Output](doc/16.png)
+![Task 6 Script](doc/15.png) | ![Task 6 Output](doc/16.png)
 
 ---
 
