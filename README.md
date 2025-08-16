@@ -6,7 +6,7 @@ The tasks replicate typical business questions around **spend efficiency, funnel
 
 ---
 
-## Task 6 — Spend Efficiency (Facebook Ads Basic Daily)
+## Task 1 — Spend Efficiency (Facebook Ads Basic Daily)
 
 **Business Objective:**  
 Evaluate advertising efficiency by analyzing spend relative to clicks.
@@ -22,11 +22,11 @@ Provides a first look at spend efficiency, helping marketers quickly identify da
 
 Script | Output
 :---: | :---:
-![Task 6 Script](docs/img19.png) | ![Task 6 Output](docs/img20.png)
+![Task 1 Script](doc/1.png) | ![Task 1 Output](doc/2.png)
 
 ---
 
-## Task 7 — Campaign-Level Aggregation & Metrics
+## Task 2 — Campaign-Level Aggregation & Metrics
 
 **Business Objective:**  
 Calculate campaign performance metrics to benchmark across days and campaigns.
@@ -48,11 +48,11 @@ Delivers actionable KPIs at the campaign level, essential for daily optimization
 
 Script | Output
 :---: | :---:
-![Task 7 Script](docs/img21.png) | ![Task 7 Output](docs/img22.png)
+![Task 2 Script](doc/3.png) | ![Task 2 Output](doc/4.png)
 
 ---
 
-## Task 8 — Unified Facebook & Google Spend View
+## Task 3 — Unified Facebook & Google Spend View
 
 **Business Objective:**  
 Consolidate marketing data across **Google Ads** and **Facebook Ads** for unified reporting.
@@ -70,11 +70,11 @@ Provides a cross-channel view of media performance, enabling comparison between 
 
 Script | Output
 :---: | :---:
-![Task 8 Script](docs/img23.png) | ![Task 8 Output](docs/img24.png)
+![Task 3 Script](doc/5.png) | ![Task 3 Output](doc/6.png)
 
 ---
 
-## Task 9 — Detailed Campaign & Adset Reporting
+## Task 4 — Detailed Campaign & Adset Reporting
 
 **Business Objective:**  
 Produce a granular report that links **campaigns** and **adsets** across Facebook and Google Ads.
@@ -93,11 +93,11 @@ Enables **deep-dive analysis** into campaign/adset performance, crucial for A/B 
 
 Script | Output
 :---: | :---:
-![Task 9 Script](docs/img25.png) | ![Task 9 Output](docs/img26.png)
+![Task 4 Script](doc/img7.png) | ![Task 4 Output](doc/8.png)
 
 ---
 
-## Task 10 — UTM Campaign Analysis with CTR, CPC, CPM, ROMI
+## Task 5 — UTM Campaign Analysis with CTR, CPC, CPM, ROMI
 
 **Business Objective:**  
 Enrich campaign-level reporting with **UTM attribution** for better marketing insights.
@@ -116,11 +116,11 @@ Bridges ad platform data with tracking parameters, allowing performance evaluati
 
 Script | Output
 :---: | :---:
-![Task 10 Script](docs/img27.png) | ![Task 10 Output](docs/img28.png)
+![Task 5 Script](doc/11.png) | ![Task 5 Output](doc/12.png)
 
 ---
 
-## Task 11 — Monthly Campaign Dynamics
+## Task 6 — Monthly Campaign Dynamics
 
 **Business Objective:**  
 Measure **month-over-month trends** in campaign efficiency.
@@ -137,7 +137,7 @@ Supports trend analysis, enabling marketers to identify growth, decline, and sea
 
 Script | Output
 :---: | :---:
-![Task 11 Script](docs/img29.png) | ![Task 11 Output](docs/img30.png)
+![Task 6 Script](doc/15.png) | ![Task 6 Script](doc/15.1.png) | ![Task 6 Output](doc/16.png)
 
 ---
 
